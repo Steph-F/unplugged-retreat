@@ -175,6 +175,7 @@ header figure {
   justify-content: center;
   align-items: center;
   flex-flow: row wrap;
+  background-color: #202322;
 }
 
 .header-divider {
@@ -325,6 +326,11 @@ input[type=button] {
 .features p {
   margin: 0;
   text-align: center;
+}
+
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
 }
 
 /* Reviews */
